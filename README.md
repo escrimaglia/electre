@@ -4,8 +4,6 @@ Aplicación de decisión multicriterio con **ELECTRE I y II** — Universidad Te
 Cátedra *Decisiones en Escenarios Complejos*.  
 Autor: Edgardo Scrimaglia.  
 
-*English below.*
-
 ## Descargar
 
 Entrá a **[la última versión](https://github.com/escrimaglia/electre/releases/latest)** y bajá el archivo de tu sistema:
