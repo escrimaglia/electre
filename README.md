@@ -63,5 +63,3 @@ program is not digitally signed). *Mac:* open the `.dmg`, drag **ELECTRE** to **
 **Use.** A small *"ELECTRE is running"* window appears and the app opens in your browser; it runs only on your computer.
 Close it with **Close ELECTRE**, or just close the browser and it shuts down after a few minutes. Your cases stay saved.
 The **User manual** is in the app's menu.  
- it shuts down after a few minutes. Your cases stay saved.
-The **User manual** is in the app's menu.
