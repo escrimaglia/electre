@@ -39,10 +39,10 @@ instalá FUSE 2 (Ubuntu 22.04: `sudo apt install libfuse2`; Ubuntu 24.04 o poste
 
 ## Usar
 
-Al abrir ELECTRE, la aplicación se abre directamente en tu navegador. Funciona sólo en tu computadora. Para cerrarla,
-cerrá la pestaña (o la ventana del navegador): se apaga a los pocos segundos. Tus casos quedan guardados para la próxima vez. El **Manual de uso** está en el menú de la aplicación.  
+ELECTRE se abre en su propia ventana, como cualquier programa (no usa tu navegador). Funciona sólo en tu computadora.
+Para cerrarla, cerrá la ventana. Tus casos quedan guardados para la próxima vez. El **Manual de uso** está en el menú de la aplicación.  
 
-Para **actualizar**, cerrá las pestañas de ELECTRE e instalá la versión nueva encima (tus casos se conservan; el aviso de seguridad puede volver a aparecer). Para **desinstalar**: en Windows, desde
+Para **actualizar**, cerrá ELECTRE e instalá la versión nueva encima (tus casos se conservan; el aviso de seguridad puede volver a aparecer). Para **desinstalar**: en Windows, desde
 *Configuración → Aplicaciones*; en Mac, desde Finder, arrastrá ELECTRE de Aplicaciones a la papelera (no desde Launchpad); en Linux, borrá el archivo. Los casos quedan en
 `%APPDATA%\ELECTRE` (Windows), `~/Library/Application Support/ELECTRE` (Mac) o `~/.local/share/electre` (Linux).  
 
@@ -63,6 +63,6 @@ try to open ELECTRE and close the warning with **Done**, then go to *System Sett
 *Security* and click **Open Anyway** (the button only appears after that first attempt). *Linux:*
 `chmod +x ELECTRE-*.AppImage && ./ELECTRE-*.AppImage` (needs FUSE 2: `sudo apt install libfuse2`, or `libfuse2t64` on Ubuntu 24.04 or later).  
 
-**Use.** The app opens directly in your browser; it runs only on your computer.
-To close it, close the tab (or the browser window): it shuts down within a few seconds. Your cases stay saved.
+**Use.** ELECTRE opens in its own window, like any program (it does not use your browser); it runs only on your computer.
+To close it, close the window. Your cases stay saved.
 The **User manual** is in the app's menu.  
