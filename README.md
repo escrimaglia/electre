@@ -42,7 +42,7 @@ instalá FUSE 2 (Ubuntu 22.04: `sudo apt install libfuse2`; Ubuntu 24.04 o poste
 ELECTRE se abre en su propia ventana, como cualquier programa (no usa tu navegador). Funciona sólo en tu computadora.
 Para cerrarla, cerrá la ventana. Tus casos quedan guardados para la próxima vez. El **Manual de uso** está en el menú de la aplicación y también se puede bajar: [ELECTRE_Manual_de_uso.pdf](https://github.com/escrimaglia/electre/releases/latest/download/ELECTRE_Manual_de_uso.pdf).  
 
-Para **actualizar**, cerrá ELECTRE e instalá la versión nueva encima (tus casos se conservan; el aviso de seguridad puede volver a aparecer). Para **desinstalar**: en Windows, desde
+Para **actualizar**: desde la 1.5.0, ELECTRE avisa sola cuando hay una versión nueva y ofrece instalarla (menú *Ayuda → Buscar actualizaciones…*). A mano: cerrá ELECTRE e instalá la versión nueva encima (tus casos se conservan; el aviso de seguridad puede volver a aparecer). Para **desinstalar**: en Windows, desde
 *Configuración → Aplicaciones*; en Mac, desde Finder, arrastrá ELECTRE de Aplicaciones a la papelera (no desde Launchpad); en Linux, borrá el archivo. Los casos quedan en
 `%APPDATA%\ELECTRE` (Windows), `~/Library/Application Support/ELECTRE` (Mac) o `~/.local/share/electre` (Linux).  
 
@@ -65,4 +65,5 @@ try to open ELECTRE and close the warning with **Done**, then go to *System Sett
 
 **Use.** ELECTRE opens in its own window, like any program (it does not use your browser); it runs only on your computer.
 To close it, close the window. Your cases stay saved.
+From version 1.5.0 on, ELECTRE tells you when a new version is available and offers to install it (*Help → Check for updates…*).  
 The **User manual** is in the app's menu and can also be downloaded: [ELECTRE_User_Manual.pdf](https://github.com/escrimaglia/electre/releases/latest/download/ELECTRE_User_Manual.pdf).  
